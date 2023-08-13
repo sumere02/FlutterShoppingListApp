@@ -1,1 +1,1 @@
-
+<img src = "https://github.com/sumere02/FlutterShoppingListApp/assets/98668083/79109417-5aa8-45ec-823f-c0ca5e084a02" width = "250"> <img src = "https://github.com/sumere02/FlutterShoppingListApp/assets/98668083/c0ac4dcb-07de-4423-ba15-e8107a394be1" width = "250">
